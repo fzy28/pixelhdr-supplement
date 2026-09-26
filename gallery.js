@@ -21,7 +21,7 @@ function loadCasePayload(entry,signal){
     script.onerror=()=>finish(new Error('Could not load comparison'));
     signal.addEventListener('abort',abort,{once:true});
     if(signal.aborted){abort();return;}
-    script.src=entry.payload;document.head.append(script);
+    script.src=window.supplementAssetUrl(entry.payload.split('/').pop());document.head.append(script);
   });
 }
 
