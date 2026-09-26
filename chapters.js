@@ -105,11 +105,11 @@ window.VIDEO_CHAPTERS = {
       "start_seconds": 286.0
     },
     {
-      "title": "Pasta · Sunlight",
+      "title": "Hoodie portrait · Sunlight",
       "start_seconds": 294.0
     },
     {
-      "title": "Red car · Sunlight",
+      "title": "Fox · Sunlight",
       "start_seconds": 302.0
     },
     {
@@ -133,11 +133,11 @@ window.VIDEO_CHAPTERS = {
       "start_seconds": 342.0
     },
     {
-      "title": "Fox · Warm firelight",
+      "title": "Glass · Warm firelight",
       "start_seconds": 350.0
     },
     {
-      "title": "Pocket watch · Warm firelight",
+      "title": "Strawberries · Warm firelight",
       "start_seconds": 358.0
     },
     {
